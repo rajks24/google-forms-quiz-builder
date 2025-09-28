@@ -20,6 +20,10 @@ Turn a **Google Sheet of questions** into a fully published **Google Forms Quiz*
   - Collects student name + email
   - Links responses to the same Sheet
 
+## 🎥 Demo Video
+
+[![Google Forms Quiz Builder Demo](https://img.youtube.com/vi/zynPyJbANcc/0.jpg)](https://youtu.be/zynPyJbANcc)
+
 ## 📂 Repo Structure
 
 ```
