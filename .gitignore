@@ -1,0 +1,29 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor junk
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Node (only if you ever install dependencies for docs/tools)
+node_modules/
+npm-debug.log
+yarn-debug.log*
+yarn-error.log*
+
+# macOS metadata
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows metadata
+Desktop.ini
+
+# Optional: backups/exports
+*.zip
+*.bak
+*.tmp
