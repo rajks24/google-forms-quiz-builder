@@ -42,7 +42,7 @@ google-forms-quiz-builder
 ## 🚀 Quick Start
 
 1. Open a Google Sheet and add rows as per [Questions.sheet-format.md](./sample/Questions.sheet-format.md).  
-   (Try the sample: [math_assignment1_exact.csv](./sample/math_assignment1_questions.csv))
+   (Try the sample: [assignment1_questions.csv](./sample/math_assignment1_questions.csv))
 
 2. Go to **Extensions => Apps Script**.
 

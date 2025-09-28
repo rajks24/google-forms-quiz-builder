@@ -13,8 +13,8 @@ We can run it as a **container-bound Apps Script** inside our Sheet (simplest me
    - Leave a blank row.
    - Add the questions table (`Section, Question, Type, Points, AnswerA..D`).
 
-You can also import the provided sample CSV:  
-[`sample/Questions.sample.csv`](../sample/Questions.sample.csv)
+We can also import the provided sample CSV:  
+[sample/questions.sample.csv](../sample/math_assignment1_questions.csv)
 
 ## 2) Add the Apps Script
 
